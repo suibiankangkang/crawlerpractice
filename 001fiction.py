@@ -1,5 +1,13 @@
 #!/usr/bin/python3
-# coding:utf-8
+# -*-coding:utf-8-*-
+
+
+'''
+简单的静态爬虫入门
+练习的网站是：
+http://www.kannunu8.com
+'''
+
 
 import requests
 import re
