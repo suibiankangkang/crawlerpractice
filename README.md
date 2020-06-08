@@ -36,11 +36,11 @@
 
 ----------------------------------------------------------
 
-005scrapy_test.py
+005scrapy_test.zip
 
-其中有2个爬虫
+【其中有2个爬虫实例】example demo
 
-先用pip安装scrapy库
+要预先安装scrapy库，需解压
 
 在cmd命令下运行： scrapy crawl example
 
